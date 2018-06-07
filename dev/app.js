@@ -1,4 +1,4 @@
-import {h, Component} from 'composi'
+import {h} from 'composi'
 import {title} from './components/title'
 import {Converter} from './components/converter'
 

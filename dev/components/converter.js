@@ -72,7 +72,7 @@ export class Converter extends Component {
     );
   }
 
-  componentWasCreated() {
+  componentDidMount() {
     this.element.addEventListener('input', this)
   }
 }
